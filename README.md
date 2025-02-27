@@ -1,19 +1,20 @@
 # 👋 Hi, I'm Sujnan Kumar (@sujnankumar)
 
-## About Me  
-🔹 Passionate about technology, coding, and problem-solving.  
-🔹 Always eager to learn and explore new technologies.  
-🔹 Interested in collaborating on open-source projects and hackathons.  
+## 🚀 About Me  
+I am a tech enthusiast passionate about coding, problem-solving, and building innovative solutions.  
+Always eager to learn and explore new technologies, I thrive on challenges and continuous improvement.  
 
-## Skills & Interests  
-✔ Full-Stack Development  
-✔ Competitive Programming  
-✔ Cybersecurity & Ethical Hacking  
-✔ Machine Learning & AI  
-✔ Web Scraping & Automation  
+## 🔥 What I Do  
+💻 **Full-Stack Development** – Crafting scalable and efficient applications.  
+🎯 **Competitive Programming** – Solving complex problems with optimized algorithms.  
+🔐 **Cybersecurity & Ethical Hacking** – Exploring vulnerabilities and competing in Capture The Flag (CTF) challenges.  
+🤖 **Machine Learning & AI** – Experimenting with AI models and data-driven insights.  
+⚡ **Web Scraping & Automation** – Extracting valuable data and automating workflows.  
 
-## Let's Connect  
-📫 Reach me via GitHub discussions or contributions.  
+## 🤝 Let's Collaborate  
+I’m always open to exciting projects, hackathons, and open-source contributions.  
+If you have an interesting idea, feel free to connect!   
+
 ⚡ Fun Fact: I am an Engineer who loves challenges!  
 
 
